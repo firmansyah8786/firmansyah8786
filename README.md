@@ -9,6 +9,6 @@ contact me at:
 - [LinkedIn: Yudistira Firman Syah](https://www.linkedin.com/in/yudistira-firman-syah-29b456193)
 - [Email: firmansyah8786@gmail.com](mailto:firmansyah8786@gmail.com)
 
-My works can be viewed at my personal website : [yudistira-fs](https://yudistira-fs.vercel.app)
+My works can be viewed at my personal website : [yudistira-fs](https://yudistira-fs.my.id)
 
 ### Let's build something great!!
