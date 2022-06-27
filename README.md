@@ -3,7 +3,7 @@ My name is Yudistira Firman Syah. I am a backend PHP web developer, but I can al
 
 PHP is my favorite for creating APIs, especially using Laravel framework. For front-end, I've used blade, ejs, and vue so far. I can also do integration with external API in your website.
 
-I am currently open for remote or local job opportunities and freelance works.
+I am currently open for freelance works.
 
 contact me at:
 - [LinkedIn: Yudistira Firman Syah](https://www.linkedin.com/in/yudistira-firman-syah-29b456193)
